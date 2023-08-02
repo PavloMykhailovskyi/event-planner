@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/event-planner/static/css/main.b5320759.css",
+    "main.js": "/event-planner/static/js/main.07d3183d.js",
+    "index.html": "/event-planner/index.html",
+    "main.b5320759.css.map": "/event-planner/static/css/main.b5320759.css.map",
+    "main.07d3183d.js.map": "/event-planner/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
